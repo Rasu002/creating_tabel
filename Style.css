@@ -1,0 +1,25 @@
+table{
+    border: 2px solid black;
+    border-collapse:collapse;
+    position: relative;
+    top: 8rem;
+    right: 50px;
+    left:20rem;
+}
+th{
+    border: 3px solid black;
+    text-align: left;
+    background-color: aqua;
+
+}
+td{
+    border: 3px solid black;
+    text-align: center;
+    background-color: aquamarine;
+}
+p{
+    text-align: left;
+}
+body{
+    background-color:color(display-p3 red green blue);
+}
